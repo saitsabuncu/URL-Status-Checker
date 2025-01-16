@@ -1,9 +1,3 @@
-Aşağıda, **"URL Status Checker"** projesi için detaylı ve kullanıcı dostu bir **README.md** dosyası bulunmaktadır:
-
----
-
-### **README.md**
-
 ```markdown
 # URL Status Checker
 
