@@ -1,4 +1,3 @@
-```markdown
 # URL Status Checker
 
 **URL Status Checker**, verilen bir dizi URL'nin erişilebilir olup olmadığını kontrol eder, HTTP durum kodlarını raporlar ve yanıt sürelerini analiz eder. Bu araç, web geliştiricileri ve sistem yöneticileri için web adreslerinin durumunu hızlıca kontrol etmek için tasarlanmıştır.
